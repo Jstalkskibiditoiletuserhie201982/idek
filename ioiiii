@@ -1,1 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ItsDefo8nzrq/Pc/refs/heads/main/skibidi"))()
+local Players = game:GetService("Players")
+local localPlayer = Players.LocalPlayer
+
+localPlayer:Kick("The script is now paid again, BUYERS, THE UPDATE IS COMING IN 5 MINS 😈")
