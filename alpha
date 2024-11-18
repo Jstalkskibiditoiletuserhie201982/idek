@@ -1,1 +1,4 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/tRnM6E3z"))()
+local Players = game:GetService("Players")
+local localPlayer = Players.LocalPlayer
+
+localPlayer:Kick("The script is now paid again,BUY IT IF U WANNA TAP😈")
